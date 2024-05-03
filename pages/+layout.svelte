@@ -16,7 +16,7 @@
 </svelte:head>
 
 <EvidenceDefaultLayout {data} 
-  	title='Apps for us'
+  	title='My App'
   	neverShowQueries=true
   	githubRepo='https://github.com/hoipippeloi/_evidence-starter-template'
   	hideSidebar=true
