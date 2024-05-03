@@ -18,7 +18,7 @@
 <EvidenceDefaultLayout {data} 
   	title='Apps for us'
   	neverShowQueries=true
-  	githubRepo='https://github.com/hoipippeloi/appsfor.us'
+  	githubRepo='https://github.com/hoipippeloi/_evidence-starter-template'
   	hideSidebar=true
   	fullWidth=true
   	maxWidth=1440
